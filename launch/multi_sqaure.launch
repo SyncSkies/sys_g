@@ -1,7 +1,7 @@
 <launch>
     <!-- Group for drone 1 -->
     <group>
-        <node pkg="iq_gnc" type="square" name="square1" output="screen" ns="/drone1">
+        <node pkg="sys_g" type="square" name="square1" output="screen" ns="/drone1">
             <param name="namespace" value="/drone1"/>
             <param name="use_sim_time" value="true"/>
         </node>
@@ -9,7 +9,7 @@
 
     <!-- Group for drone 2 -->
     <group>
-        <node pkg="iq_gnc" type="square" name="square2" output="screen" ns="/drone2">
+        <node pkg="sys_g" type="square" name="square2" output="screen" ns="/drone2">
             <param name="namespace" value="/drone2"/>
             <param name="use_sim_time" value="true"/>
         </node>
@@ -17,7 +17,7 @@
 
     <!-- Group for drone 3 -->
     <group>
-        <node pkg="iq_gnc" type="square" name="square3" output="screen" ns="/drone3">
+        <node pkg="sys_g" type="square" name="square3" output="screen" ns="/drone3">
             <param name="namespace" value="/drone3"/>
             <param name="use_sim_time" value="true"/>
         </node>
@@ -25,7 +25,7 @@
 
     <!-- Group for drone 4 -->
     <group>
-        <node pkg="iq_gnc" type="square" name="square4" output="screen" ns="/drone4">
+        <node pkg="sys_g" type="square" name="square4" output="screen" ns="/drone4">
             <param name="namespace" value="/drone4"/>
             <param name="use_sim_time" value="true"/>
         </node>
@@ -33,7 +33,7 @@
 
     <!-- Group for drone 5 -->
     <group>
-        <node pkg="iq_gnc" type="square" name="square5" output="screen" ns="/drone5">
+        <node pkg="sys_g" type="square" name="square5" output="screen" ns="/drone5">
             <param name="namespace" value="/drone5"/>
             <param name="use_sim_time" value="true"/>
         </node>
@@ -41,7 +41,7 @@
 
     <!-- Group for drone 6 -->
     <group>
-        <node pkg="iq_gnc" type="square" name="square6" output="screen" ns="/drone6">
+        <node pkg="sys_g" type="square" name="square6" output="screen" ns="/drone6">
             <param name="namespace" value="/drone6"/>
             <param name="use_sim_time" value="true"/>
         </node>
@@ -49,7 +49,7 @@
 
     <!-- Group for drone 7 -->
     <group>
-        <node pkg="iq_gnc" type="square" name="square7" output="screen" ns="/drone7">
+        <node pkg="sys_g" type="square" name="square7" output="screen" ns="/drone7">
             <param name="namespace" value="/drone7"/>
             <param name="use_sim_time" value="true"/>
         </node>
@@ -57,7 +57,7 @@
 
     <!-- Group for drone 8 -->
     <group>
-        <node pkg="iq_gnc" type="square" name="square8" output="screen" ns="/drone8">
+        <node pkg="sys_g" type="square" name="square8" output="screen" ns="/drone8">
             <param name="namespace" value="/drone8"/>
             <param name="use_sim_time" value="true"/>
         </node>
@@ -65,7 +65,7 @@
 
     <!-- Group for drone 9 -->
     <group>
-        <node pkg="iq_gnc" type="square" name="square9" output="screen" ns="/drone9">
+        <node pkg="sys_g" type="square" name="square9" output="screen" ns="/drone9">
             <param name="namespace" value="/drone9"/>
             <param name="use_sim_time" value="true"/>
         </node>
@@ -73,7 +73,7 @@
 
     <!-- Group for drone 10 -->
     <group>
-        <node pkg="iq_gnc" type="square" name="square10" output="screen" ns="/drone10">
+        <node pkg="sys_g" type="square" name="square10" output="screen" ns="/drone10">
             <param name="namespace" value="/drone10"/>
             <param name="use_sim_time" value="true"/>
         </node>
@@ -81,7 +81,7 @@
 
     <!-- Group for drone 11 -->
     <group>
-        <node pkg="iq_gnc" type="square" name="square11" output="screen" ns="/drone11">
+        <node pkg="sys_g" type="square" name="square11" output="screen" ns="/drone11">
             <param name="namespace" value="/drone11"/>
             <param name="use_sim_time" value="true"/>
         </node>
@@ -89,7 +89,7 @@
 
     <!-- Group for drone 12 -->
     <group>
-        <node pkg="iq_gnc" type="square" name="square12" output="screen" ns="/drone12">
+        <node pkg="sys_g" type="square" name="square12" output="screen" ns="/drone12">
             <param name="namespace" value="/drone12"/>
             <param name="use_sim_time" value="true"/>
         </node>
